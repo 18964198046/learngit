@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Create a new branch dev.
 fix bug issue-101.
+On dev completed work.
